@@ -1,0 +1,235 @@
+<resources>
+    <string name="play_str">PLAY</string>
+    <string name="pause_str">PAUSE</string>
+    <string name="app_name">Think Ahead</string>
+    <string name="welcome_str" translatable="false">Think Ahead</string>
+    <string name="topfive_str" translatable="false">TOP 5</string>
+    <string name="enjoyit_str">Click here to enjoy it!!!</string>
+    <string name="top_main_str" translatable="false">Think Ahead</string>
+    <string name="song_list">Songs to play</string>
+    <string name="first_song_str" translatable="false">1. Freak The Freak out</string>
+    <string name="second_song_str" translatable="false">2. Give It Up </string>
+    <string name="third_song_str" translatable="false">3. Sway </string>
+    <string name="forth_song_str" translatable="false">4. Freak The Freak out</string>
+    <string name="fifth_song_str" translatable="false">5. Freak The Freak</string>
+    <string name="about_olya_str">About Olya</string>
+    <string name="about_kate_str">About Kate</string>
+    <string name="about_group_str">About us</string>
+    <string name="our_songs_str">Our songs</string>
+    <string name="about_group_group_str">About Think Ahead</string>
+    <string name="about_group_group_text">Two friends were thinking about doing something fun and develop in a new area. That is how our band was born. We both were singing in school bands or among friends, but that was not enough, so we decided to try to do it on a different level.</string>
+    <string name="about_golya_text">I am a small girl in a big world, which is always open to learning and discovering something new. I like horses and red color, I am fond of reading, singing and poetry, and my sacred dream is to travel all over the world. And I try to follow this dream </string>
+    <string name="about_katya_text">Just a QA Engineer, who cannot stop challenging herself and trying something new. I like rainy weather, like to visit new places and meet interesting people. When I have free time I usually draw, do yoga, sing, dance or play computer games :)</string>
+    <string name="freak_the_freak_out_text" translatable="false">
+Are you listening ,hear me talk hear me sing\n
+Open up the door, is it less is it more\n
+When you tell me to beware,\n
+are you here are you there?\n
+Is it something I should know,\n
+easy come easy go\n
+\n
+Not in your head, dont hear a word I said\n
+I cant communicate\n
+when you wait, dont were relate\n
+I try to talk to you,\n
+but you never even knew\n
+So whats it gonna be, tell me,\n
+can you hear me?\n
+\n
+Im so sick of it, your attention deficit\n
+Never listen,\n
+you never listen\n
+Im so sick of it so Ill throw another fit\n
+Never listen,\n
+you never listen.\n
+I scream your name\n
+It always stays the same\n
+I scream and shout\n
+So what Im gonna do now is\n
+Freak the Freak Out (Hey!)\n
+\n
+Patience running thin running\n
+thin come again\n
+Tell me what I get opposite opposite\n
+Show me what is real,\n
+If it breaks, does it heal?\n
+Open up your ear, why you think\n
+that Im here\n
+\n
+Keep me in the dark,\n
+are you even thinking of me?\n
+Is someone else above me?\n
+Gotta know gotta know\n
+What am I gonna do,\n
+cause I cant get through to you\n
+So whats it gonna be, tell me\n
+can you hear me?\n
+\n
+Im so sick of it, your attention deficit\n
+Never listen,\n
+you never listen\n
+Im so sick of it so Ill throw another fit\n
+Never listen,\n
+you never listen.\n
+I scream your name\n
+It always stays the same\n
+I scream and shout\n
+So what Im gonna do now is\n
+Freak the Freak Out (hey!)\n
+\n
+Easy come, easy go\n
+Easy come, easy go\n
+(Can you hear me?)\n
+\n
+I scream your name\n
+But it always stays the same\n
+I scream and shout\n
+So what Im gonna do now is\n
+Freak the Freak Out (hey!)\n
+\n
+I scream your name, but you never listen\n
+No, you never listen!\n
+But you never listen...</string>
+    <string name="give_it_up_text" translatable="false">
+        Someday I let you in\n
+Treat you right\n
+Drive you outta your mind\n
+Oh\n
+\n
+You never met a chick like me\n
+Burn so bright\n
+Im gonna make you blind\n
+\n
+Always want what you cant have\n
+Is it so bad\n
+If you dont get what you wanted\n
+Make you feel good\n
+As Im with you\n
+Wanna shape ya boy\n
+Lets get it started\n
+\n
+Give it up\n
+You cant win\n
+Cause I know where youve been\n
+Such a shame\n
+You dont put up a fight\n
+Thats a game that we play\n
+At the end of the night\n
+Its the same old story\n
+But you never get it right\n
+Give it up\n
+\n
+Come a little closer\n
+Baby, baby\n
+Come a little closer\n
+Come a little closer\n
+Baby, baby\n
+\n
+So stop trying to walk away\n
+No you wont ever leave me behind\n
+(No)\n
+You better believe that Im here to stay\n
+(Thats right)\n
+Cause youre the shade and Im the sunshine\n
+(Ooh)\n
+\n
+Look at me boy\n
+Cause I got you\n
+Where I want you\n
+Isnt it so exciting?\n
+Wanna shake you\n
+Wanna break you\n
+Take a backseat boy\n
+Cause now Im driving\n
+
+Give it up\n
+You cant win\n
+Cause I know where youve been\n
+Such a shame\n
+You dont put up a fight\n
+Thats a game that we play\n
+At the end of the night\n
+Its the same old story\n
+But you never get it right\n
+Give it up\n
+
+Come a little closer\n
+Come a little closer\n
+Baby, baby\n
+Come a little closer\n
+Come a little closer\n
+Baby, baby\n
+\n
+Come a little closer\n
+Come a little closer\n
+Baby\n
+Youre my baby\n
+And Ill make you crazy tonight\n
+\n
+Look at me boy\n
+Cause I got you\n
+Where I want you\n
+Isnt it so exciting?\n
+Wanna shake you\n
+Wanna break you\n
+Take a backseat boy\n
+Cause now Im driving\n
+\n
+Give it up\n
+You cant win\n
+Cause I know where youve been\n
+Such a shame\n
+You dont put up a fight\n
+Thats a game that we play\n
+At the end of the night\n
+Its the same old story\n
+But you never get it right\n
+Give it up, whoa yeah</string>\n
+
+    <string name="sway_text" translatable="false">When marimba rhythms start to play\n
+Dance with me, make me sway\n
+Like a lazy ocean hugs the shore\n
+
+Hold me close, sway me more\n
+
+Like a flower bending in the breeze\n
+Bend with me, sway with ease\n
+When we dance you have a way with me\n
+Stay with me, sway with me\n
+\n
+Other dancers may be on the floor\n
+Dear, but my eyes will see only you\n
+Only you have that magic technique\n
+When we sway I go weak\n
+\n
+I can hear the sounds of violins\n
+Long before it begins\n
+Make me thrill as only you know how\n
+Sway me smooth, sway me now\n
+\n
+
+Sway me, take me\n
+Thrill me, hold me\n
+Bend me, ease me\n
+You have a way with me\n
+\n
+Sway (sway)\n
+\n
+Other dancers may be on the floor\n
+Dear, but my eyes will see only you\n
+Only you have that magic technique\n
+When we sway I go weak\n
+I go weak\n
+\n
+I can hear the sounds of violins\n
+Long before it begins\n
+Make me thrill as only you know how\n
+Sway me smooth, sway me now\n
+Make me thrill as only you know how\n
+Sway me smooth, sway me now\n
+Make me thrill as only you know how\n
+Sway me smooth, sway me now\n
+Sway me\n
+Sway me\n
+Sway me now\n</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Think Ahead</string>
+    <string name="about_golya_text">I am a small girl in a big world, which is always open to learning and discovering something new. I like horses and red color, I am fond of reading, singing and poetry, and my sacred dream is to travel all over the world. And I try to follow this dream</string>
+    <string name="about_group_group_str">About Think Ahead</string>
+    <string name="about_group_group_text">Two friends were thinking about doing something fun and develop in a new area. That is how our band was born. We both were singing in school bands or among friends, but that was not enough, so we decided to try to do it on a different level.</string>
+    <string name="about_group_str">About us</string>
+    <string name="about_kate_str">About Kate</string>
+    <string name="about_katya_text">Just a QA Engineer, who cannot stop challenging herself and trying something new. I like rainy weather, like to visit new places and meet interesting people. When I have free time I usually draw, do yoga, sing, dance or play computer games :)</string>
+    <string name="about_olya_str">About Olya</string>
+    <string name="enjoyit_str">Click here to enjoy it!!!</string>
+    <string name="our_songs_str">Our songs</string>
+    <string name="pause_str">PAUSE</string>
+    <string name="play_str">PLAY</string>
+    <string name="song_list">Songs to play</string>
+</resources>

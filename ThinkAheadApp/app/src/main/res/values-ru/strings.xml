@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Think Ahead</string>
+    <string name="about_golya_text">Я маленькая девочка в большом мире , который всегда открыт для обучения и открытий. Я люблю лошадей и красный цвет, я люблю читать, петь и писать стихи, и моя заветная мечта,  путешествовать по всему миру. И я стараюсь следовать за этой мечтой.</string>
+    <string name="about_group_group_str">О Think Ahead</string>
+    <string name="about_group_group_text">Двое друзей хотели, делать что-то веселое и развиваться в новой области . Так родилась наша группа . Мы обе пели в школьных группах или в кругу друзей, но этого было недостаточно, поэтому мы решили попробовать сделать это на другом уровне. </string>
+    <string name="about_group_str">О нас</string>
+    <string name="about_kate_str">О Кате</string>
+    <string name="about_olya_str">О Оле</string>
+    <string name="about_katya_text">Просто QA, который не может прекратить испытывать себя и пробовать что-то новое. Люблю дождливую погоду, посещать новые места и интересные знакомства. В свободное время я обычно рисую, занимаюсь йогой, пою, танцую или играю в компьютерные игры :)</string>
+    <string name="enjoyit_str">Нажмите здесь, Добро пожаловать!!!</string>
+    <string name="our_songs_str">Песни</string>
+    <string name="pause_str">Пауза</string>
+    <string name="play_str">Запуск</string>
+    <string name="song_list">Выбор песни</string>
+</resources>
